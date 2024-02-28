@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80119D1-8373-4A9B-8B85-991C1746DC0B}|Bank-CLI-App\\Bank-CLI-App.csproj|c:\\users\\decagon\\desktop\\vs-source\\oghene\\bankappsolution\\bank-cli-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80119D1-8373-4A9B-8B85-991C1746DC0B}|Bank-CLI-App\\Bank-CLI-App.csproj|solutionrelative:bank-cli-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8581E8D5-1185-40DC-AEC8-4BC3614EE6D5}|Bank.Data\\Bank.Data.csproj|c:\\users\\decagon\\desktop\\vs-source\\oghene\\bankappsolution\\bank.data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8581E8D5-1185-40DC-AEC8-4BC3614EE6D5}|Bank.Data\\Bank.Data.csproj|solutionrelative:bank.data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80119D1-8373-4A9B-8B85-991C1746DC0B}|Bank-CLI-App\\Bank-CLI-App.csproj|c:\\users\\decagon\\desktop\\vs-source\\oghene\\bankappsolution\\bank-cli-app\\bank.ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80119D1-8373-4A9B-8B85-991C1746DC0B}|Bank-CLI-App\\Bank-CLI-App.csproj|solutionrelative:bank-cli-app\\bank.ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5E0A42-0118-4B7B-89D6-FDEC155ACE09}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\decagon\\desktop\\vs-source\\oghene\\bankappsolution\\extensionmethods\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5E0A42-0118-4B7B-89D6-FDEC155ACE09}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECB16CC-EA29-4960-87B6-855C463AC37B}|Bank.Model\\Bank.Models.csproj|c:\\users\\decagon\\desktop\\vs-source\\oghene\\bankappsolution\\bank.model\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECB16CC-EA29-4960-87B6-855C463AC37B}|Bank.Model\\Bank.Models.csproj|solutionrelative:bank.model\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECB16CC-EA29-4960-87B6-855C463AC37B}|Bank.Model\\Bank.Models.csproj|c:\\users\\decagon\\desktop\\vs-source\\oghene\\bankappsolution\\bank.model\\bankaccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECB16CC-EA29-4960-87B6-855C463AC37B}|Bank.Model\\Bank.Models.csproj|solutionrelative:bank.model\\bankaccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Program.cs",
+              "RelativeDocumentMoniker": "Bank-CLI-App\\Program.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Program.cs",
+              "RelativeToolTip": "Bank-CLI-App\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:38:01.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Context.cs",
+              "RelativeDocumentMoniker": "Bank.Data\\Context.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Context.cs",
+              "RelativeToolTip": "Bank.Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:06:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Model\\AppUserModel.cs",
+              "RelativeDocumentMoniker": "Bank.Model\\AppUserModel.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Model\\AppUserModel.cs",
+              "RelativeToolTip": "Bank.Model\\AppUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:00:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Model\\BankAccountModel.cs",
+              "RelativeDocumentMoniker": "Bank.Model\\BankAccountModel.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Model\\BankAccountModel.cs",
+              "RelativeToolTip": "Bank.Model\\BankAccountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:42:55.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\ExtensionMethods\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\ExtensionMethods\\ExtensionMethods.cs",
+              "RelativeToolTip": "ExtensionMethods\\ExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:06:42.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.UI.cs",
+              "DocumentMoniker": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.UI.cs",
+              "RelativeDocumentMoniker": "Bank-CLI-App\\Bank.UI.cs",
+              "ToolTip": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.UI.cs",
+              "RelativeToolTip": "Bank-CLI-App\\Bank.UI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T21:55:43.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

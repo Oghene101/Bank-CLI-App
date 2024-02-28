@@ -1,0 +1,16 @@
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.sourcelink.json
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.csproj.AssemblyReference.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\bin\Debug\net8.0\Bank.Model.deps.json
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\bin\Debug\net8.0\Bank.Model.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\bin\Debug\net8.0\Bank.Model.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\bin\Debug\net8.0\Bank.Commons.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\bin\Debug\net8.0\Bank.Commons.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.csproj.Up2Date
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\refint\Bank.Model.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\Bank.Model.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Model\obj\Debug\net8.0\ref\Bank.Model.dll
