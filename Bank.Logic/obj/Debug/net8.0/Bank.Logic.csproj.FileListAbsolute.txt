@@ -1,0 +1,12 @@
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\bin\Debug\net8.0\Bank.Logic.deps.json
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\bin\Debug\net8.0\Bank.Logic.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\bin\Debug\net8.0\Bank.Logic.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.sourcelink.json
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\refint\Bank.Logic.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\Bank.Logic.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\obj\Debug\net8.0\ref\Bank.Logic.dll
