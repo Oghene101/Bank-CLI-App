@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj": {}
+    "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Commons\\Bank.Commons.csproj": {
+    "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Commons\\Bank.Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Commons\\Bank.Commons.csproj",
+        "projectUniqueName": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Commons\\Bank.Commons.csproj",
         "projectName": "Bank.Commons",
-        "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Commons\\Bank.Commons.csproj",
+        "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Commons\\Bank.Commons.csproj",
         "packagesPath": "C:\\Users\\DECAGON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Commons\\obj\\",
+        "outputPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Commons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj": {
+    "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj",
+        "projectUniqueName": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj",
         "projectName": "Bank.Data",
-        "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj",
+        "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj",
         "packagesPath": "C:\\Users\\DECAGON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\obj\\",
+        "outputPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Commons\\Bank.Commons.csproj": {
-                "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Commons\\Bank.Commons.csproj"
+              "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Commons\\Bank.Commons.csproj": {
+                "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Commons\\Bank.Commons.csproj"
               }
             }
           }

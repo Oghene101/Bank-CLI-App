@@ -28,6 +28,10 @@
       "Bank.Logic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Bank.Models": "1.0.0",
+          "ExtensionMethods": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Bank.Logic.dll": {}
         },
@@ -39,7 +43,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Bank.Commons": "1.0.0"
+          "Bank.Commons": "1.0.0",
+          "Bank.Data": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Bank.Models.dll": {}
@@ -102,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank-CLI-App.csproj",
+      "projectUniqueName": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank-CLI-App\\Bank-CLI-App.csproj",
       "projectName": "Bank-CLI-App",
-      "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank-CLI-App.csproj",
+      "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank-CLI-App\\Bank-CLI-App.csproj",
       "packagesPath": "C:\\Users\\DECAGON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\obj\\",
+      "outputPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank-CLI-App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,17 +133,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj": {
-              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj"
+            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj": {
+              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj"
             },
-            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Logic\\Bank.Logic.csproj": {
-              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Logic\\Bank.Logic.csproj"
+            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Logic\\Bank.Logic.csproj": {
+              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Logic\\Bank.Logic.csproj"
             },
-            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Model\\Bank.Models.csproj": {
-              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Model\\Bank.Models.csproj"
+            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Model\\Bank.Models.csproj": {
+              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Model\\Bank.Models.csproj"
             },
-            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\ExtensionMethods\\ExtensionMethods.csproj": {
-              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\ExtensionMethods\\ExtensionMethods.csproj"
+            "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\ExtensionMethods\\ExtensionMethods.csproj": {
+              "projectPath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\ExtensionMethods\\ExtensionMethods.csproj"
             }
           }
         }

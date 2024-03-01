@@ -4,8 +4,8 @@ namespace Bank.Data
 {
     public  class Context : IContext
     {
-        public List<IAppUser> Users { get; } = [];
-        public List<IBankAccount> BankAccounts { get; } = [];
-        public List<string> AccountNumbers { get; } = [];
+        public static List<IAppUser> Users { get; } = [];
+        public static List<IBankAccount> BankAccounts { get; } = [];
+        public static List<string> AccountNumbers { get; } = [];
     }
 }

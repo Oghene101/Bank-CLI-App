@@ -10,3 +10,15 @@ C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Commons\obj\Debug
 C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Commons\obj\Debug\net8.0\refint\Bank.Commons.dll
 C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Commons\obj\Debug\net8.0\Bank.Commons.pdb
 C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Commons\obj\Debug\net8.0\ref\Bank.Commons.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\bin\Debug\net8.0\Bank.Commons.deps.json
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\bin\Debug\net8.0\Bank.Commons.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\bin\Debug\net8.0\Bank.Commons.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.sourcelink.json
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\refint\Bank.Commons.dll
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\Bank.Commons.pdb
+C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Commons\obj\Debug\net8.0\ref\Bank.Commons.dll

@@ -19,12 +19,12 @@ public static class ExtensionMethods
 
     public static (bool, int) IsAValidNumber(this string text)
     {
-        if (!int.TryParse(text, out var parsedNumber))
+        var trimmedText = text.Replace(",", "");
+        if (!int.TryParse(trimmedText, out var parsedNumber))
         {
             Console.WriteLine("Enter a valid number!");
             return (false, -1);
         }
         return (true, parsedNumber);
     }
-
 }

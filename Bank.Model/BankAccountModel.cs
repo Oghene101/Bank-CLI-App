@@ -1,14 +1,12 @@
-﻿
+﻿using Bank.Data;
 using static Bank.Commons.Interfaces;
 
 namespace Bank.Models;
 
-public class BankAccountModel
+public class BankAccountModel : IBankAccount
 {
-    private readonly IContext _context;
-
     public string AccountNumber { get; }
-    public decimal AccountBalance { get; }
+    public decimal AccountBalance { get; set; }
 
     //Foreign Key
     public Guid AppUserId { get; }
@@ -16,10 +14,12 @@ public class BankAccountModel
 
     //Navigation property
     public List<TransactionHistoryModel> Transactions { get; } = [];
+    IAppUser IBankAccount.AppUser { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-    public BankAccountModel(IContext context)
+    List<ITransactionHistory> IBankAccount.Transactions => throw new NotImplementedException();
+
+    public BankAccountModel()
     {
-        _context = context;
         AccountNumber = GenerateAccountNumber();
         AccountBalance = 0.0M;
     }
@@ -35,9 +35,9 @@ public class BankAccountModel
 
             string accountNumber = $"{firstThreeDigits}{randomSevenDigits}";
 
-            if (!_context.AccountNumbers.Contains(accountNumber))
+            if (!Context.AccountNumbers.Contains(accountNumber))
             {
-                _context.AccountNumbers.Add(accountNumber);
+                Context.AccountNumbers.Add(accountNumber);
                 active = false;
                 return accountNumber;
             }

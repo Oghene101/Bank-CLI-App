@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6QPX6IUbeNTMZITHLo0Il66g3/mLxHr4JP4GpJuft/749rooj2j+IKJF/29aVImshT4OXsOYW6Fo18uf42FBWw==",
+  "dgSpecHash": "RHNtG+PSQhZGQz74idaqkfRcEDAWez0Ztpzd9NBxNtvHDCK9ldspcLuHhf7M59bctq2vdU/4rXt8kfDNT9N4Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Data\\Bank.Data.csproj",
+  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Data\\Bank.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

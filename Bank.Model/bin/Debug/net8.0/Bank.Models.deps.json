@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "Bank.Models/1.0.0": {
         "dependencies": {
-          "Bank.Commons": "1.0.0"
+          "Bank.Commons": "1.0.0",
+          "Bank.Data": "1.0.0"
         },
         "runtime": {
           "Bank.Models.dll": {}
@@ -17,6 +18,14 @@
       "Bank.Commons/1.0.0": {
         "runtime": {
           "Bank.Commons.dll": {}
+        }
+      },
+      "Bank.Data/1.0.0": {
+        "dependencies": {
+          "Bank.Commons": "1.0.0"
+        },
+        "runtime": {
+          "Bank.Data.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "Bank.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bank.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

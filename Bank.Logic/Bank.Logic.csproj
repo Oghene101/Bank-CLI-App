@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Bank.Model\Bank.Models.csproj" />
+    <ProjectReference Include="..\ExtensionMethods\ExtensionMethods.csproj" />
+  </ItemGroup>
+
 </Project>

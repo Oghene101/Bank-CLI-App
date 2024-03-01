@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bank.Logic
-build_property.ProjectDir = C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank.Logic\
+build_property.ProjectDir = C:\Users\DECAGON\Desktop\VS-source\Oghene\BankAppSolution\Bank-CLI-App\Bank.Logic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

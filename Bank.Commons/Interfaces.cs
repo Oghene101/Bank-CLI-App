@@ -5,9 +5,9 @@ public class Interfaces
 {
     public interface IContext
     {
-        List<IAppUser> Users { get; }
-        List<IBankAccount> BankAccounts { get; }
-        List<string> AccountNumbers { get; }
+        static List<IAppUser> Users { get; }
+        static List<IBankAccount> BankAccounts { get; }
+        static List<string> AccountNumbers { get; }
     }
 
     public interface IAppUser
@@ -15,13 +15,13 @@ public class Interfaces
         Guid Id { get; }
         string FirstName { get; set; }
         string LastName { get; set; }
-        IBankAccount BankAccount { get; set; }
+        IBankAccount BankAccount { get; }
     }
     public interface IBankAccount
     {
         string AccountNumber { get; }
-        decimal AccountBalance { get; }
-        Guid AppUserId { get; set; }
+        decimal AccountBalance { get; set; }
+        Guid AppUserId { get; }
         IAppUser AppUser { get; set; }
         List<ITransactionHistory> Transactions { get; }
     }

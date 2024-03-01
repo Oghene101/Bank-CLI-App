@@ -31,13 +31,18 @@
         }
       },
       "Bank.Logic/1.0.0": {
+        "dependencies": {
+          "Bank.Models": "1.0.0",
+          "ExtensionMethods": "1.0.0"
+        },
         "runtime": {
           "Bank.Logic.dll": {}
         }
       },
       "Bank.Models/1.0.0": {
         "dependencies": {
-          "Bank.Commons": "1.0.0"
+          "Bank.Commons": "1.0.0",
+          "Bank.Data": "1.0.0"
         },
         "runtime": {
           "Bank.Models.dll": {}

@@ -1,55 +1,68 @@
 ﻿using Bank.Data;
 using Bank.Models;
 using ExtensionMethods;
-using static Bank.Commons.Interfaces;
+using System.Text;
+using static Bank.Logic.BankActions;
+
+Console.OutputEncoding = Encoding.UTF8; // Use UTF-8 encoding
 
 Console.WriteLine("Welcome to the Bank Solution created by Ogheneruemu Karieren");
 Console.WriteLine();
 
-AppUserModel appUser = new();
-
-string firstName = "";
 bool active = true;
+BankAccountModel bankAccount = null;
 while (active)
 {
-   Console.Write("Enter First Name: ");
-   firstName = Console.ReadLine();
+    Menu();
+    (bool isValid, int selection ) = Console.ReadLine().IsAValidNumber();
 
-    if (!firstName.IsAValidName())
+    if (isValid)
     {
-        continue;
+        switch (selection)
+        {
+            case 1:
+                Console.Clear();
+                bankAccount = CreateAccount();
+                break;
+            case 3:
+                Console.Clear();
+                if ( bankAccount != null)
+                {
+                    WithdrawFromAccount(bankAccount);
+                }
+                Console.WriteLine("There is no existing account to withdraw from!");
+                break;
+            case 4:
+                Console.Clear();
+                if ( bankAccount != null)
+                {
+                    FundAccount(bankAccount);
+                }
+                Console.WriteLine("There is no existing account to fund!");
+                break;
+            case 5:
+                Console.Clear();
+                active = false;
+                break;
+            default:
+                Console.Clear();
+                Console.WriteLine("Enter a valid option.");
+                break;
+        }
     }
-    appUser.FirstName = firstName;
-    active = false;
 }
 
-string lastName = "";
-active = true;
-while (active)
+Console.WriteLine("\nApp Users:");
+foreach (var user in Context.Users)
 {
-    Console.Write("Enter Last Name: ");
-    lastName = Console.ReadLine();
-    if (!lastName.IsAValidName())
-    {
-        continue;
-    }
-    appUser.LastName = lastName;
-    active = false;
+    Console.WriteLine(user);
 }
 
-Console.WriteLine();
-Console.Write($"Would you like to create an account {firstName} {lastName}? (Yes/No): ");
-Console.WriteLine();
-var toCreateAccount = Console.ReadLine();
-if (toCreateAccount.Equals("Yes", StringComparison.OrdinalIgnoreCase))
+void Menu()
 {
-    IContext context = new Context();
-    BankAccountModel bankAccount = new(context);
-
-    Console.WriteLine($"Cheers {firstName}! Your account has been successfully created.");
-    Console.WriteLine($"Your account number is: {bankAccount.AccountNumber}");
-    Console.WriteLine($"Your account number is: {bankAccount.AccountBalance}");
-
-    context.AccountNumbers.Add(bankAccount.AccountNumber);
-    context.AccountNumbers.Add(bankAccount.AccountNumber);
+    Console.WriteLine("\n\nEnter 1 to create an account\n" +
+                    "Enter 2 to make a transfer\n" +
+                    "Enter 3 to make a withdrawal\n" +
+                    "Enter 4 to fund account\n" +
+                    "Enter 5 to exit application");
 }

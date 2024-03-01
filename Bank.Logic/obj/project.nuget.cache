@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8KO51lGKN4a68IdeRxwGWaPKjkwwdPw8M6DvejaNegeDgn398LN0xhBU0aJgw3ZBSdHwmFv9VIZKltAoeicHA==",
+  "dgSpecHash": "5Dy+5wCtghXrT6l+GbxKfUthF0g1+jOsYi8Af0iVEc0h3iGPCWQq78euxPdYc6Fm/Eny8wqJbNmFgu/sOe2aeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank.Logic\\Bank.Logic.csproj",
+  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\VS-source\\Oghene\\BankAppSolution\\Bank-CLI-App\\Bank.Logic\\Bank.Logic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
